@@ -6,6 +6,15 @@
 \usage{
 calculate_values(num)
 }
+\arguments{
+\item{num}{a number}
+}
+\value{
+2 times num plus 4
+}
 \description{
 Sum values
+}
+\examples{
+calculate_values(3)
 }

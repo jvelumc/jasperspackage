@@ -8,5 +8,5 @@
 #' @examples
 #' do_something(42)
 do_something <- function(n=5){
-  rnorm(n)
+  stats::rnorm(n)
 }
